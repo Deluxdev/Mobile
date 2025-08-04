@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">formulario</string>
+
+    <string-array name="sexo_array">
+        <item>Homem</item>
+        <item>Mulher</item>
+    </string-array>
+</resources>
